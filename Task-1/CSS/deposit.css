@@ -1,0 +1,28 @@
+.container
+{
+    background-color: rgb(215, 215, 215);
+    ;
+    margin-top: 7%;
+    
+    /* width: 50%; */
+    padding: 2%;
+    border-radius: 10px;
+    height: 450px;
+}
+body
+{
+    font-family: 'Inter', sans-serif;
+   
+}
+@media screen and (max-width:500px) 
+{
+    .container
+    {
+        width: 85%;
+    }    
+}
+form{
+    background-color: rgb(215, 215, 215);
+    padding: 20px;
+    border-radius: 10px;
+}

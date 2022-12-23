@@ -1,0 +1,16 @@
+.container
+{
+    margin-top: 5%;
+    background-color: rgb(255, 255, 255);
+    border: solid transparent;
+    border-radius: 10px;
+}
+.title
+{
+    text-align: center;
+}
+form{
+    background-color: rgb(215, 215, 215);
+    padding: 20px;
+    border-radius: 10px;
+}
